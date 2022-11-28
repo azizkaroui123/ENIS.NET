@@ -1,0 +1,39 @@
+﻿@model IEnumerable<ENISNC.Models.Departement>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Departements</h1>
+<br />
+<br />
+
+<p>
+    
+    <a asp-action="Create"><button type="button" asp-action="Create" class="btn btn-primary">Create New</button></a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.spacialitée)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.spacialitée)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.DepartementId" class="  fas fa-edit"></a>
+                    <a asp-action="Details" asp-route-id="@item.DepartementId" class=" fas fa-align-justify"></a>
+                    <a asp-action="Delete" asp-route-id="@item.DepartementId" class=" fas fa-prescription-bottle"></a>
+            </td>
+        </tr>
+}
+        
+    </tbody>
+</table>
