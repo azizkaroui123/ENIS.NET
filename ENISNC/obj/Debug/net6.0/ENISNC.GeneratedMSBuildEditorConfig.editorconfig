@@ -15,6 +15,46 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ASUS\Desktop\si firas\.net\DotNET1-main\ENISNC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DemandePFEsStudent/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNTdHVkZW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DemandePFEsStudent/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNTdHVkZW50XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DemandePFEsStudent/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNTdHVkZW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DemandePFEsStudent/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNTdHVkZW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DemandePFEsStudent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNTdHVkZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DemandePFEsTeacher/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNUZWFjaGVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DemandePFEsTeacher/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNUZWFjaGVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DemandePFEsTeacher/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNUZWFjaGVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DemandePFEsTeacher/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNUZWFjaGVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DemandePFEsTeacher/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNUZWFjaGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DemandePFEs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -33,6 +73,46 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DemandePFEs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DepartementsStudent/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzU3R1ZGVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DepartementsStudent/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzU3R1ZGVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DepartementsStudent/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DepartementsStudent/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DepartementsStudent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DepartementsTeacher/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzVGVhY2hlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DepartementsTeacher/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzVGVhY2hlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DepartementsTeacher/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzVGVhY2hlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DepartementsTeacher/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzVGVhY2hlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/DepartementsTeacher/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzVGVhY2hlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/Departements/Create.cshtml]
@@ -63,6 +143,46 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/PapersStudent/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzU3R1ZGVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/PapersStudent/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzU3R1ZGVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/PapersStudent/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/PapersStudent/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/PapersStudent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/PapersTeacher/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzVGVhY2hlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/PapersTeacher/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzVGVhY2hlclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/PapersTeacher/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzVGVhY2hlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/PapersTeacher/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzVGVhY2hlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/PapersTeacher/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzVGVhY2hlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/Papers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -81,6 +201,62 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/Papers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/RoleViews/Admin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVZpZXdzXEFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/RoleViews/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVZpZXdzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/RoleViews/Student.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVZpZXdzXFN0dWRlbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/RoleViews/Teacher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVZpZXdzXFRlYWNoZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/SectionsStudent/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNTdHVkZW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/SectionsStudent/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNTdHVkZW50XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/SectionsStudent/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNTdHVkZW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/SectionsStudent/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNTdHVkZW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/SectionsStudent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNTdHVkZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/SectionsTeacher/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNUZWFjaGVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/SectionsTeacher/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNUZWFjaGVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/SectionsTeacher/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNUZWFjaGVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/SectionsTeacher/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNUZWFjaGVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/SectionsTeacher/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNUZWFjaGVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ASUS/Desktop/si firas/.net/DotNET1-main/ENISNC/Views/Sections/Create.cshtml]
