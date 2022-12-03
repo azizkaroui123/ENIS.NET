@@ -8,14 +8,15 @@ using Microsoft.EntityFrameworkCore;
 using ENISNC;
 using ENISNC.Models;
 using ENISNC.ViewModels;
+using ENISNC.Areas.Identity.Data;
 
 namespace ENISNC.Controllers
 {
     public class UsersController : Controller
     {
-        private readonly ENISContext _context;
+        private readonly ENISNCContext _context;
 
-        public UsersController(ENISContext context)
+        public UsersController(ENISNCContext context)
         {
             _context = context;
         }
