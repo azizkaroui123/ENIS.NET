@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\si firas\\.net\\DotNET1-main\\ENISNC\\ENISNC.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\si firas\\.net - Copie (2)\\DotNET1-main\\ENISNC\\ENISNC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\si firas\\.net\\DotNET1-main\\ENISNC\\ENISNC.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\si firas\\.net - Copie (2)\\DotNET1-main\\ENISNC\\ENISNC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\si firas\\.net\\DotNET1-main\\ENISNC\\ENISNC.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\si firas\\.net - Copie (2)\\DotNET1-main\\ENISNC\\ENISNC.csproj",
         "projectName": "ENISNC",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\si firas\\.net\\DotNET1-main\\ENISNC\\ENISNC.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\si firas\\.net - Copie (2)\\DotNET1-main\\ENISNC\\ENISNC.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\si firas\\.net\\DotNET1-main\\ENISNC\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\si firas\\.net - Copie (2)\\DotNET1-main\\ENISNC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.0, )"

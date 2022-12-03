@@ -7,14 +7,15 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using ENISNC;
 using ENISNC.Models;
+using ENISNC.Areas.Identity.Data;
 
 namespace ENISNC.Controllers
 {
     public class PapersStudentController : Controller
     {
-        private readonly ENISContext _context;
+        private readonly ENISNCContext _context;
 
-        public PapersStudentController(ENISContext context)
+        public PapersStudentController(ENISNCContext context)
         {
             _context = context;
         }

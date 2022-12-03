@@ -8,14 +8,15 @@ using Microsoft.EntityFrameworkCore;
 using ENISNC;
 using ENISNC.Models;
 using ENISNC.ViewModels;
+using ENISNC.Areas.Identity.Data;
 
 namespace ENISNC.Controllers
 {
     public class DemandePFEsController : Controller
     {
-        private readonly ENISContext _context;
+        private readonly ENISNCContext _context;
 
-        public DemandePFEsController(ENISContext context)
+        public DemandePFEsController(ENISNCContext context)
         {
             _context = context;
         }

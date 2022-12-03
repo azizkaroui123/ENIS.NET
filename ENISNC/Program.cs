@@ -1,8 +1,15 @@
 using ENISNC;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using ENISNC.Areas.Identity.Data;
 
 var builder = WebApplication.CreateBuilder(args);
+var connectionString = builder.Configuration.GetConnectionString("ENISNCContextConnection") ?? throw new InvalidOperationException("Connection string 'ENISNCContextConnection' not found.");
 // Add services to the contaivner.
-builder.Services.AddDbContext<ENISContext>();
+builder.Services.AddDbContext<ENISNCContext>();
+
+builder.Services.AddDefaultIdentity<ENISNCUser>(options => options.SignIn.RequireConfirmedAccount = true)
+    .AddEntityFrameworkStores<ENISNCContext>();
 builder.Services.AddControllers();
 
 builder.Services.AddControllersWithViews();
@@ -22,11 +29,12 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
+app.UseAuthentication();;
 
 app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
-
+app.MapRazorPages();
 app.Run();
