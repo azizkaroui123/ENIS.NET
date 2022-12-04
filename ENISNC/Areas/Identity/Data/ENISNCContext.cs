@@ -18,7 +18,7 @@ public class ENISNCContext : IdentityDbContext<ENISNCUser>
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsbuilder)
     {
-        optionsbuilder.UseSqlServer(@"Server=LAPTOP-NGVDTDME\SQLEXPRESS;Database=ENISFnewnew;Trusted_Connection=True;TrustServerCertificate=True;");
+        optionsbuilder.UseSqlServer(@"Server=LAPTOP-A7SDFKGC\SQLEXPRESS;Database=ENISFnewnew;Trusted_Connection=True;TrustServerCertificate=True;");
     }
     public ENISNCContext(DbContextOptions<ENISNCContext> options)
         : base(options)

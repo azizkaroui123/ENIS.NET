@@ -1,4 +1,5 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -9,6 +10,8 @@ using ENISNC;
 using ENISNC.Models;
 using ENISNC.ViewModels;
 using ENISNC.Areas.Identity.Data;
+using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ENISNC.Controllers
 {
@@ -22,6 +25,9 @@ namespace ENISNC.Controllers
         }
 
         // GET: DemandePFEs
+
+
+        [Authorize (Roles = "Teacher")]
         public async Task<IActionResult> Index()
         {
               return View(await _context.demandes.ToListAsync());

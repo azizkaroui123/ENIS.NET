@@ -6,22 +6,25 @@ namespace ASP.NETCoreIdentityCustom.Controllers
 {
     public class RoleViewsController : Controller
     {
+        [Authorize]
         public IActionResult Index()
         {
             return View();
         }
 
-        //[Authorize(Policy = Constants.Policies.RequireManager)]
+        
         public IActionResult Teacher()
         {
             return View();
         }
+
+        [Authorize(Roles = "Student")]
         public IActionResult Student()
         {
             return View();
         }
 
-        //[Authorize(Policy = "RequireAdmin")]
+        [Authorize(Roles = "Admin")]
         public IActionResult Admin()
         {
             return View();

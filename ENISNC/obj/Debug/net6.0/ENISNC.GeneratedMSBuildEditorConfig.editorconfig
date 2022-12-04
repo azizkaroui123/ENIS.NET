@@ -8,341 +8,341 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ENISNC
 build_property.RootNamespace = ENISNC
-build_property.ProjectDir = C:\Users\ASUS\Desktop\si firas\.net - Copie (2)\DotNET1-main\ENISNC\
+build_property.ProjectDir = C:\Users\gassen\Desktop\zone_de_stockage\3 éme année\.Net\forthFinal\ENISNC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ASUS\Desktop\si firas\.net - Copie (2)\DotNET1-main\ENISNC
+build_property.MSBuildProjectDirectory = C:\Users\gassen\Desktop\zone_de_stockage\3 éme année\.Net\forthFinal\ENISNC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Areas/Identity/Pages/Account/Login.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Areas/Identity/Pages/Account/Logout.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Areas/Identity/Pages/_ViewImports.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DemandePFEsStudent/Create.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DemandePFEsStudent/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNTdHVkZW50XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DemandePFEsStudent/Delete.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DemandePFEsStudent/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNTdHVkZW50XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DemandePFEsStudent/Details.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DemandePFEsStudent/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNTdHVkZW50XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DemandePFEsStudent/Edit.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DemandePFEsStudent/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNTdHVkZW50XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DemandePFEsStudent/Index.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DemandePFEsStudent/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNTdHVkZW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DemandePFEsTeacher/Create.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DemandePFEsTeacher/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNUZWFjaGVyXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DemandePFEsTeacher/Delete.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DemandePFEsTeacher/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNUZWFjaGVyXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DemandePFEsTeacher/Details.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DemandePFEsTeacher/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNUZWFjaGVyXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DemandePFEsTeacher/Edit.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DemandePFEsTeacher/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNUZWFjaGVyXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DemandePFEsTeacher/Index.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DemandePFEsTeacher/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNUZWFjaGVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DemandePFEs/Create.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DemandePFEs/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DemandePFEs/Delete.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DemandePFEs/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DemandePFEs/Details.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DemandePFEs/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DemandePFEs/Edit.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DemandePFEs/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DemandePFEs/Index.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DemandePFEs/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVtYW5kZVBGRXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DepartementsStudent/Create.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DepartementsStudent/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzU3R1ZGVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DepartementsStudent/Delete.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DepartementsStudent/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzU3R1ZGVudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DepartementsStudent/Details.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DepartementsStudent/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DepartementsStudent/Edit.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DepartementsStudent/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzU3R1ZGVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DepartementsStudent/Index.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DepartementsStudent/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DepartementsTeacher/Create.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DepartementsTeacher/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzVGVhY2hlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DepartementsTeacher/Delete.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DepartementsTeacher/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzVGVhY2hlclxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DepartementsTeacher/Details.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DepartementsTeacher/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzVGVhY2hlclxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DepartementsTeacher/Edit.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DepartementsTeacher/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzVGVhY2hlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/DepartementsTeacher/Index.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/DepartementsTeacher/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzVGVhY2hlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Departements/Create.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Departements/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Departements/Delete.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Departements/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Departements/Details.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Departements/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Departements/Edit.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Departements/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Departements/Index.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Departements/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0ZW1lbnRzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Home/Index.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Home/Privacy.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/PapersStudent/Create.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/PapersStudent/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzU3R1ZGVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/PapersStudent/Delete.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/PapersStudent/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzU3R1ZGVudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/PapersStudent/Details.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/PapersStudent/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/PapersStudent/Edit.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/PapersStudent/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzU3R1ZGVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/PapersStudent/Index.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/PapersStudent/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/PapersTeacher/Create.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/PapersTeacher/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzVGVhY2hlclxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/PapersTeacher/Delete.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/PapersTeacher/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzVGVhY2hlclxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/PapersTeacher/Details.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/PapersTeacher/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzVGVhY2hlclxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/PapersTeacher/Edit.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/PapersTeacher/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzVGVhY2hlclxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/PapersTeacher/Index.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/PapersTeacher/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzVGVhY2hlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Papers/Create.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Papers/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Papers/Delete.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Papers/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Papers/Details.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Papers/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Papers/Edit.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Papers/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Papers/Index.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Papers/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFwZXJzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/RoleViews/Admin.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/RoleViews/Admin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVZpZXdzXEFkbWluLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/RoleViews/Index.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/RoleViews/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVZpZXdzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/RoleViews/Student.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/RoleViews/Student.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVZpZXdzXFN0dWRlbnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/RoleViews/Teacher.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/RoleViews/Teacher.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZVZpZXdzXFRlYWNoZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/SectionsStudent/Create.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/SectionsStudent/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNTdHVkZW50XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/SectionsStudent/Delete.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/SectionsStudent/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNTdHVkZW50XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/SectionsStudent/Details.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/SectionsStudent/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNTdHVkZW50XERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/SectionsStudent/Edit.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/SectionsStudent/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNTdHVkZW50XEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/SectionsStudent/Index.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/SectionsStudent/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNTdHVkZW50XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/SectionsTeacher/Create.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/SectionsTeacher/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNUZWFjaGVyXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/SectionsTeacher/Delete.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/SectionsTeacher/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNUZWFjaGVyXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/SectionsTeacher/Details.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/SectionsTeacher/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNUZWFjaGVyXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/SectionsTeacher/Edit.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/SectionsTeacher/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNUZWFjaGVyXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/SectionsTeacher/Index.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/SectionsTeacher/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNUZWFjaGVyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Sections/Create.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Sections/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Sections/Delete.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Sections/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Sections/Details.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Sections/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Sections/Edit.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Sections/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Sections/Index.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Sections/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VjdGlvbnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Shared/Error.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Users/Create.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Users/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Users/Delete.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Users/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Users/Details.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Users/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Users/Edit.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Users/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Users/Index.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/_ViewImports.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/_ViewStart.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/Views/Shared/_Layout.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9iyj10apt2
 
-[C:/Users/ASUS/Desktop/si firas/.net - Copie (2)/DotNET1-main/ENISNC/wwwroot/bootstrap/_Layout.cshtml]
+[C:/Users/gassen/Desktop/zone_de_stockage/3 éme année/.Net/forthFinal/ENISNC/wwwroot/bootstrap/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxib290c3RyYXBcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-p8krcvq79n

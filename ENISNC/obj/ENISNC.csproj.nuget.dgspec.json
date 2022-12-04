@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\Desktop\\si firas\\.net - Copie (2)\\DotNET1-main\\ENISNC\\ENISNC.csproj": {}
+    "C:\\Users\\gassen\\Desktop\\zone_de_stockage\\3 éme année\\.Net\\forthFinal\\ENISNC\\ENISNC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\Desktop\\si firas\\.net - Copie (2)\\DotNET1-main\\ENISNC\\ENISNC.csproj": {
+    "C:\\Users\\gassen\\Desktop\\zone_de_stockage\\3 éme année\\.Net\\forthFinal\\ENISNC\\ENISNC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\si firas\\.net - Copie (2)\\DotNET1-main\\ENISNC\\ENISNC.csproj",
+        "projectUniqueName": "C:\\Users\\gassen\\Desktop\\zone_de_stockage\\3 éme année\\.Net\\forthFinal\\ENISNC\\ENISNC.csproj",
         "projectName": "ENISNC",
-        "projectPath": "C:\\Users\\ASUS\\Desktop\\si firas\\.net - Copie (2)\\DotNET1-main\\ENISNC\\ENISNC.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\Desktop\\si firas\\.net - Copie (2)\\DotNET1-main\\ENISNC\\obj\\",
+        "projectPath": "C:\\Users\\gassen\\Desktop\\zone_de_stockage\\3 éme année\\.Net\\forthFinal\\ENISNC\\ENISNC.csproj",
+        "packagesPath": "C:\\Users\\gassen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gassen\\Desktop\\zone_de_stockage\\3 éme année\\.Net\\forthFinal\\ENISNC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gassen\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
